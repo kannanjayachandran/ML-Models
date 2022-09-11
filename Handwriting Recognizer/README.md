@@ -20,6 +20,8 @@
 
 - Gradient descent
 
+- One-hot-encoding
+
 ## This neural network uses the following activation functions
 
 - ReLU
