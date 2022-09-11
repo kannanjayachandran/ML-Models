@@ -32,3 +32,6 @@
 
 - numpy
 - pandas
+
+
+### This model is created only for learning the basics of Neural network and to implement a simple neural network form scratch. This is not at all optimized.
