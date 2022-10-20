@@ -17,3 +17,5 @@ GPU Computing time  = 0.6266326 seconds
 ```
 
 ![image of comparing speed](./image.png)
+
+- As the complexity of the computation increases, GPU perfroms way better than the CPU.
